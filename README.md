@@ -12,13 +12,14 @@
 
 ## Sessions
 
-1. Introduction to Logistics and Logistics Systems
-2. Improving Healthcare Systems
-3. Lean and Agile in Healthcare
-4. Case-Study COPD
-5. Case-Study: Huntingtons
-6. Presentation of chosen Pathways and Visualizations
-7. Guest Lecture 1
+0. Kick-off (March 17)
+1. Introduction to Logistics and Logistics Systems (March 24)
+2. Guest Lecture: Jaakko Nurkka from Cliniserve (March 31)
+3. Improving Healthcare Systems
+4. Lean and Agile in Healthcare
+5. Presentation of chosen Pathways and Visualizations
+6. Case-Study COPD
+7. Case-Study: Huntingtons
 8. Guest Lecture 2
 9. Guest Lecture 3
 10. Guest Lecture 4
