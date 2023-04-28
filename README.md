@@ -12,20 +12,21 @@
 
 ## Sessions
 
-0. Kick-off (March 17)
-1. Introduction to Logistics and Logistics Systems (March 24)
-2. Guest Lecture: Jaakko Nurkka from Cliniserve (March 31)
-3. Improving Healthcare Systems
-4. Lean and Agile in Healthcare
-5. Presentation of chosen Pathways and Visualizations
-6. Case-Study COPD
-7. Case-Study: Huntingtons
-8. Guest Lecture 2
-9. Guest Lecture 3
-10. Guest Lecture 4
-11. Guest Lecture 5
-12. Guest Lecture 6
-13. Final Presentations
+- [x] 0. Kick-off (March 17)
+- [x] 1. Introduction to Logistics and Logistics Systems (March 24)
+- [x] 2. Guest Lecture: Jaakko Nurkka from Cliniserve (March 31)
+- [x] 3. Improving Healthcare Systems
+- [ ] X. Logistics with a twist: Building and Shipping Docker Containers
+- [ ] 4. Lean and Agile in Healthcare
+- [ ] 5. Presentation of chosen Pathways and Visualizations
+- [ ] 6. Case-Study COPD
+- [ ] 7. Case-Study: Huntingtons
+- [ ] 8. Guest Lecture 2
+- [ ] 9. Guest Lecture 3
+- [ ] 10. Guest Lecture 4
+- [ ] 11. Guest Lecture 5
+- [ ] 12. Guest Lecture 6
+- [ ] 13. Final Presentations
 
 
 ## Class Project
